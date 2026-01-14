@@ -104,7 +104,7 @@ Para conferir meu portfólio e obter mais informações acesse [Meu site](https:
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api?username=matheusferrazsp&show_icons=true&theme=transparent&locale=pt-BR&include_all_commits"
+    src=[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusferrazsp)](https://github.com/matheusferrazsp/github-readme-stats)
 />
 
 <img
