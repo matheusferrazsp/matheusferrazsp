@@ -2,7 +2,7 @@
 
 _`Desenvolvedor FullStack`_
 
-Me chamo Matheus Ferraz, tenho 27 anos e sou de São Paulo. Atuo há 4 anos como desenvolvedor FullStack autônomo. Minha principal área de atuação foi no marketing focado no desenvolvimento de sites institucionais.
+Me chamo Matheus Ferraz, tenho 28 anos e sou de São Paulo. Atuo há 5 anos como desenvolvedor FullStack. Minha principal área de atuação foi no marketing focado no desenvolvimento de sites institucionais e sistemas e-commerce de alta escalabilidade.
 
 Atualmente estou cursando engenharia de software com previsão de término em 2029.
 
