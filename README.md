@@ -104,7 +104,7 @@ Para conferir meu portfólio e obter mais informações acesse [Meu site](https:
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px"
-    src= "https://github-stats-extended.vercel.app/api?username=matheusferrazsp&show_icons=true&theme=tokyonight"
+    src= "https://github-stats-extended.vercel.app/api?username=matheusferrazsp&show_icons=true&theme=merko"
 />
 
 <img
@@ -112,5 +112,5 @@ Para conferir meu portfólio e obter mais informações acesse [Meu site](https:
     alt="Languages"
     height="200"
     style="padding-right: 10px"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=matheusferrazsp"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=matheusferrazsp&show_icons=true&theme=merko"
 />
