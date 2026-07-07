@@ -97,7 +97,7 @@ Para conferir meu portfólio e obter mais informações acesse [Meu site](https:
     alt="css"
     width="30px"
     style="padding-right: 10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"           
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"          
 />
 
 <br>
