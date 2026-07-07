@@ -109,8 +109,8 @@ Para conferir meu portfólio e obter mais informações acesse [Meu site](https:
 
 <img
     align="left"
-    alt="GitHub Stats"
+    alt="Languages"
     height="200"
     style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferrazsp&theme=transparent&locale=pt-BR&custom_title=Tecnologias"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=matheusferrazsp"
 />
